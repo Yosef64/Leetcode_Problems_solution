@@ -23,7 +23,7 @@ class Solution:
                     temp.append(n.right)
             if q:
                 depth = temp
-        print(len(depth))  
+     
         visited = set()
         while len(depth) != 1:
             for _ in range(len(depth)):
