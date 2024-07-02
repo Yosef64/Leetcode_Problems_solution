@@ -17,7 +17,7 @@ class Solution:
             for move in range(1,7):
                 nMove = num + move
                 r , c = fn(nMove)
-                print(r,c)
+                
                 if board[r][c] != -1:
                     nMove = board[r][c]
                 if nMove == row * row:
