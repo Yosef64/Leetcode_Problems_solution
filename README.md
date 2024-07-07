@@ -16,6 +16,7 @@
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1876-map-of-highest-peak) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Graph
 |  |
 | ------- |
@@ -31,6 +32,7 @@
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Union Find
 |  |
 | ------- |
@@ -72,12 +74,14 @@
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
