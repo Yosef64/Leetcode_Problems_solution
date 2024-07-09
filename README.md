@@ -43,6 +43,7 @@
 ## Array
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0542-01-matrix](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0542-01-matrix) |
 | [0833-bus-routes](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0833-bus-routes) |
 | [0945-snakes-and-ladders](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0945-snakes-and-ladders) |
@@ -99,4 +100,20 @@
 |  |
 | ------- |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0215-kth-largest-element-in-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
