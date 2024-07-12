@@ -99,6 +99,7 @@
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0295-find-median-from-data-stream) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Divide and Conquer
 |  |
@@ -109,11 +110,13 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0295-find-median-from-data-stream) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0295-find-median-from-data-stream) |
 ## Quickselect
 |  |
 | ------- |
@@ -126,4 +129,12 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0023-merge-k-sorted-lists) |
+## Two Pointers
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
