@@ -13,14 +13,9 @@ class Solution:
                 self.dfs(neighbor, node, adj)
 
     def minReorder(self, n, connections):
-        adj = {}
+        adj = defaultdict(list)
         for connection in connections:
-            if connection[0] not in adj:
-                adj[connection[0]] = []
             adj[connection[0]].append([connection[1], 1])
-
-            if connection[1] not in adj:
-                adj[connection[1]] = []
             adj[connection[1]].append([connection[0], 0])
 
         self.dfs(0, -1, adj)
