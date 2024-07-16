@@ -156,8 +156,13 @@
 | ------- |
 | [0055-jump-game](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0055-jump-game) |
 | [0621-task-scheduler](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0621-task-scheduler) |
+| [2715-k-items-with-the-maximum-sum](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2715-k-items-with-the-maximum-sum) |
 ## Counting
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0621-task-scheduler) |
+## Math
+|  |
+| ------- |
+| [2715-k-items-with-the-maximum-sum](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2715-k-items-with-the-maximum-sum) |
 <!---LeetCode Topics End-->
