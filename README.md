@@ -46,6 +46,7 @@
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0055-jump-game) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0542-01-matrix](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0542-01-matrix) |
@@ -69,6 +70,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0055-jump-game) |
 | [0542-01-matrix](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0542-01-matrix) |
 | [1117-as-far-from-land-as-possible](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1117-as-far-from-land-as-possible) |
 ## Hash Table
@@ -152,6 +154,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0055-jump-game) |
 | [0621-task-scheduler](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0621-task-scheduler) |
 ## Counting
 |  |
