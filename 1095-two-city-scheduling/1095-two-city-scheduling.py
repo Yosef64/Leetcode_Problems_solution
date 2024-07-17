@@ -10,10 +10,8 @@ class Solution:
             ans += min(a,b)
         
         dif = len(dic['a']) - len(dic['b'])
-        # print(dic,ans)
         if dif == 0:return ans
         temp = sorted(dic['b']) if dif < 0 else sorted(dic['a'])
-        # print(temp,dif)
         for ind in range(len(temp) - n//2):
             ans += temp[ind]
         return ans
