@@ -33,6 +33,7 @@
 | [0813-all-paths-from-source-to-target](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0813-all-paths-from-source-to-target) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
@@ -58,6 +59,7 @@
 | [0833-bus-routes](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0833-bus-routes) |
 | [0945-snakes-and-ladders](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0945-snakes-and-ladders) |
 | [1117-as-far-from-land-as-possible](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1117-as-far-from-land-as-possible) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1207-delete-nodes-and-return-forest) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1876-map-of-highest-peak) |
 | [1962-single-threaded-cpu](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1962-single-threaded-cpu) |
@@ -86,6 +88,7 @@
 | [0621-task-scheduler](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0621-task-scheduler) |
 | [0833-bus-routes](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0833-bus-routes) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Tree
@@ -93,6 +96,7 @@
 | ------- |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -101,6 +105,7 @@
 | ------- |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2493-reverse-odd-levels-of-binary-tree) |
