@@ -7,7 +7,9 @@
 
 class Solution:
     def countPairs(self, root: TreeNode, distance: int) -> int:
+        count = 0
         def dfs(node):
+            nonlocal count
             if not node:
                 return []
             if not node.left and not node.right:
@@ -19,10 +21,10 @@ class Solution:
             for l in left_distances:
                 for r in right_distances:
                     if l + r <= distance:
-                        self.count += 1
+                        count += 1
             
             return [d + 1 for d in left_distances + right_distances if d + 1 <= distance]
 
-        self.count = 0
+        
         dfs(root)
-        return self.count
+        return count
