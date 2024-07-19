@@ -62,6 +62,7 @@
 | [0621-task-scheduler](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0621-task-scheduler) |
 | [0833-bus-routes](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0833-bus-routes) |
 | [0945-snakes-and-ladders](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0945-snakes-and-ladders) |
+| [0951-partition-array-into-disjoint-intervals](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0951-partition-array-into-disjoint-intervals) |
 | [1095-two-city-scheduling](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1095-two-city-scheduling) |
 | [1117-as-far-from-land-as-possible](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1117-as-far-from-land-as-possible) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1207-delete-nodes-and-return-forest) |
