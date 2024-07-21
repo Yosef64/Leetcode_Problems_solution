@@ -86,6 +86,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0055-jump-game) |
 | [0542-01-matrix](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0542-01-matrix) |
 | [1117-as-far-from-land-as-possible](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1117-as-far-from-land-as-possible) |
@@ -129,6 +130,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0005-longest-palindromic-substring) |
 | [0468-validate-ip-address](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0468-validate-ip-address) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 ## Design
@@ -180,6 +182,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0011-container-with-most-water) |
 | [0295-find-median-from-data-stream](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0295-find-median-from-data-stream) |
 | [0475-heaters](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0475-heaters) |
