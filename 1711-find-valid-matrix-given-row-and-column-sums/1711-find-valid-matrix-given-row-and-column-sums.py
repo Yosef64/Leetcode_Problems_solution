@@ -11,5 +11,5 @@ class Solution:
             colSum[j] -= x
             i += (rowSum[i] == 0) 
             j += (colSum[j] == 0)
-            print(x,i,j)
+            # print(x,i,j)
         return arr
