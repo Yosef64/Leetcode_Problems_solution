@@ -72,6 +72,7 @@
 | [1876-map-of-highest-peak](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1876-map-of-highest-peak) |
 | [1962-single-threaded-cpu](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1962-single-threaded-cpu) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2479-meeting-rooms-iii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2479-meeting-rooms-iii) |
 ## Matrix
 |  |
 | ------- |
@@ -103,6 +104,7 @@
 | [1207-delete-nodes-and-return-forest](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2479-meeting-rooms-iii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2479-meeting-rooms-iii) |
 ## Tree
 |  |
 | ------- |
@@ -157,6 +159,7 @@
 | [0621-task-scheduler](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0621-task-scheduler) |
 | [1095-two-city-scheduling](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1095-two-city-scheduling) |
 | [1962-single-threaded-cpu](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1962-single-threaded-cpu) |
+| [2479-meeting-rooms-iii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2479-meeting-rooms-iii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -167,6 +170,7 @@
 | [0480-sliding-window-median](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0480-sliding-window-median) |
 | [0621-task-scheduler](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0621-task-scheduler) |
 | [1962-single-threaded-cpu](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1962-single-threaded-cpu) |
+| [2479-meeting-rooms-iii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2479-meeting-rooms-iii) |
 ## Quickselect
 |  |
 | ------- |
@@ -227,4 +231,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0002-add-two-numbers) |
+## Simulation
+|  |
+| ------- |
+| [2479-meeting-rooms-iii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2479-meeting-rooms-iii) |
 <!---LeetCode Topics End-->
