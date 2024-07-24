@@ -205,6 +205,7 @@
 | [0324-wiggle-sort-ii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0324-wiggle-sort-ii) |
 | [0621-task-scheduler](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0621-task-scheduler) |
 | [1095-two-city-scheduling](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1095-two-city-scheduling) |
+| [1303-minimum-moves-to-reach-target-score](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2715-k-items-with-the-maximum-sum) |
 ## Counting
@@ -216,6 +217,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0012-integer-to-roman) |
+| [1303-minimum-moves-to-reach-target-score](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2715-k-items-with-the-maximum-sum) |
 ## Binary Search
 |  |
