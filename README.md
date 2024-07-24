@@ -71,6 +71,7 @@
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1876-map-of-highest-peak](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1876-map-of-highest-peak) |
+| [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1962-single-threaded-cpu](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1962-single-threaded-cpu) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2479-meeting-rooms-iii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2479-meeting-rooms-iii) |
@@ -162,6 +163,7 @@
 | [0621-task-scheduler](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0621-task-scheduler) |
 | [1095-two-city-scheduling](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1095-two-city-scheduling) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1333-sort-the-jumbled-numbers) |
+| [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1962-single-threaded-cpu](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1962-single-threaded-cpu) |
 | [2479-meeting-rooms-iii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2479-meeting-rooms-iii) |
 ## Heap (Priority Queue)
@@ -212,6 +214,7 @@
 | [1095-two-city-scheduling](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1095-two-city-scheduling) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2715-k-items-with-the-maximum-sum) |
 ## Counting
 |  |
