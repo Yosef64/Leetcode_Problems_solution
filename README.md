@@ -104,6 +104,7 @@
 | [1207-delete-nodes-and-return-forest](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2413-smallest-number-in-infinite-set](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2413-smallest-number-in-infinite-set) |
 | [2479-meeting-rooms-iii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2479-meeting-rooms-iii) |
 ## Tree
 |  |
@@ -142,6 +143,7 @@
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0295-find-median-from-data-stream) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2413-smallest-number-in-infinite-set](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2413-smallest-number-in-infinite-set) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -170,6 +172,7 @@
 | [0480-sliding-window-median](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0480-sliding-window-median) |
 | [0621-task-scheduler](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0621-task-scheduler) |
 | [1962-single-threaded-cpu](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1962-single-threaded-cpu) |
+| [2413-smallest-number-in-infinite-set](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2413-smallest-number-in-infinite-set) |
 | [2479-meeting-rooms-iii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2479-meeting-rooms-iii) |
 ## Quickselect
 |  |
