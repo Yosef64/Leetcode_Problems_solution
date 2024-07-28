@@ -76,6 +76,7 @@
 | [1962-single-threaded-cpu](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1962-single-threaded-cpu) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2479-meeting-rooms-iii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2479-meeting-rooms-iii) |
+| [2636-maximum-subsequence-score](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2636-maximum-subsequence-score) |
 ## Matrix
 |  |
 | ------- |
@@ -172,6 +173,7 @@
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1962-single-threaded-cpu](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1962-single-threaded-cpu) |
 | [2479-meeting-rooms-iii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2479-meeting-rooms-iii) |
+| [2636-maximum-subsequence-score](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2636-maximum-subsequence-score) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -186,6 +188,7 @@
 | [1962-single-threaded-cpu](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1962-single-threaded-cpu) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2413-smallest-number-in-infinite-set) |
 | [2479-meeting-rooms-iii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2479-meeting-rooms-iii) |
+| [2636-maximum-subsequence-score](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2636-maximum-subsequence-score) |
 ## Quickselect
 |  |
 | ------- |
@@ -225,6 +228,7 @@
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
+| [2636-maximum-subsequence-score](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2636-maximum-subsequence-score) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2715-k-items-with-the-maximum-sum) |
 ## Counting
 |  |
