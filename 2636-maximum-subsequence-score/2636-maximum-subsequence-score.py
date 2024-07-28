@@ -10,18 +10,19 @@ class Solution:
         ef=float("infinity")
         prd=float("-infinity")
         while i<k:
-            x=lst.pop(0)
-            heapq.heappush(flst,x[1])
-            ef=min(ef,x[0])
-            sm+=x[1]
+            # x=lst.pop(0)
+            heapq.heappush(flst,lst[i][1])
+            ef=min(ef,lst[i][0])
+            sm+=lst[i][1]
             i+=1
         prd=max(prd,sm*ef)
-        while lst:
+        while i < len(nums1):
             x=heapq.heappop(flst)
             sm-=x
-            y=lst.pop(0)
-            heapq.heappush(flst,y[1])
-            ef=min(ef,y[0])
-            sm+=y[1]
+            # y=lst.pop(0)
+            heapq.heappush(flst,lst[i][1])
+            ef = lst[i][0]
+            sm+=lst[i][1]
             prd=max(prd,sm*ef)
+            i += 1
         return prd
