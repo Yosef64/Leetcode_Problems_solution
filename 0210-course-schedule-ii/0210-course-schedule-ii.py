@@ -4,7 +4,7 @@ class Solution:
         
         for f,s in p:
             h[f].append(s)
-        print(h)
+       
         v = set()
         ans = []
         def fn(t):
