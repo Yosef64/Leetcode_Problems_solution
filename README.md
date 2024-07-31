@@ -15,6 +15,7 @@
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1876-map-of-highest-peak](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1876-map-of-highest-peak) |
@@ -27,6 +28,7 @@
 | [0801-is-graph-bipartite](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0813-all-paths-from-source-to-target) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1229-shortest-path-with-alternating-colors) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Depth-First Search
 |  |
@@ -39,6 +41,7 @@
 | [1207-delete-nodes-and-return-forest](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -279,4 +282,5 @@
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0210-course-schedule-ii) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 <!---LeetCode Topics End-->
