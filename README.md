@@ -73,6 +73,7 @@
 | [0621-task-scheduler](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0621-task-scheduler) |
 | [0833-bus-routes](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0833-bus-routes) |
 | [0881-loud-and-rich](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0881-loud-and-rich) |
+| [0887-minimum-cost-to-hire-k-workers](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0945-snakes-and-ladders](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0945-snakes-and-ladders) |
 | [0948-sort-an-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0948-sort-an-array) |
 | [0951-partition-array-into-disjoint-intervals](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0951-partition-array-into-disjoint-intervals) |
@@ -180,6 +181,7 @@
 | [0475-heaters](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0475-heaters) |
 | [0621-task-scheduler](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0778-reorganize-string) |
+| [0887-minimum-cost-to-hire-k-workers](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0948-sort-an-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0948-sort-an-array) |
 | [1095-two-city-scheduling](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1095-two-city-scheduling) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1333-sort-the-jumbled-numbers) |
@@ -197,6 +199,7 @@
 | [0480-sliding-window-median](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0480-sliding-window-median) |
 | [0621-task-scheduler](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0778-reorganize-string) |
+| [0887-minimum-cost-to-hire-k-workers](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0948-sort-an-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0948-sort-an-array) |
 | [1962-single-threaded-cpu](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1962-single-threaded-cpu) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2413-smallest-number-in-infinite-set) |
@@ -239,6 +242,7 @@
 | [0324-wiggle-sort-ii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0324-wiggle-sort-ii) |
 | [0621-task-scheduler](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0778-reorganize-string) |
+| [0887-minimum-cost-to-hire-k-workers](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [1095-two-city-scheduling](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1095-two-city-scheduling) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
