@@ -4,6 +4,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0199-binary-tree-right-side-view) |
 | [0210-course-schedule-ii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0542-01-matrix) |
 | [0801-is-graph-bipartite](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0801-is-graph-bipartite) |
@@ -36,6 +37,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0199-binary-tree-right-side-view) |
 | [0210-course-schedule-ii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0210-course-schedule-ii) |
 | [0801-is-graph-bipartite](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0813-all-paths-from-source-to-target) |
@@ -128,6 +130,7 @@
 ## Tree
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0199-binary-tree-right-side-view) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1207-delete-nodes-and-return-forest) |
@@ -138,6 +141,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0199-binary-tree-right-side-view) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1207-delete-nodes-and-return-forest) |
