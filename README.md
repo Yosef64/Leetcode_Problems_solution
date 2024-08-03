@@ -34,6 +34,7 @@
 | [1229-shortest-path-with-alternating-colors](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [2439-longest-cycle-in-a-graph](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2439-longest-cycle-in-a-graph) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -52,6 +53,7 @@
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [2439-longest-cycle-in-a-graph](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2439-longest-cycle-in-a-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Union Find
 |  |
@@ -303,4 +305,5 @@
 | [0820-find-eventual-safe-states](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0820-find-eventual-safe-states) |
 | [0881-loud-and-rich](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0881-loud-and-rich) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2439-longest-cycle-in-a-graph](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2439-longest-cycle-in-a-graph) |
 <!---LeetCode Topics End-->
