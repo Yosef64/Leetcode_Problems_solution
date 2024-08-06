@@ -111,6 +111,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0070-climbing-stairs) |
 | [0542-01-matrix](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0542-01-matrix) |
 | [1117-as-far-from-land-as-possible](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1117-as-far-from-land-as-possible) |
 ## Hash Table
@@ -265,6 +266,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0012-integer-to-roman) |
+| [0070-climbing-stairs](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0070-climbing-stairs) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2715-k-items-with-the-maximum-sum) |
 ## Binary Search
@@ -306,4 +308,8 @@
 | [0881-loud-and-rich](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0881-loud-and-rich) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2439-longest-cycle-in-a-graph](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2439-longest-cycle-in-a-graph) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
