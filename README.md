@@ -94,6 +94,7 @@
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1962-single-threaded-cpu](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1962-single-threaded-cpu) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2450-minimum-replacements-to-sort-the-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2479-meeting-rooms-iii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2479-meeting-rooms-iii) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2636-maximum-subsequence-score) |
@@ -258,6 +259,7 @@
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
+| [2450-minimum-replacements-to-sort-the-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2636-maximum-subsequence-score](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2636-maximum-subsequence-score) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2715-k-items-with-the-maximum-sum) |
 ## Counting
@@ -272,6 +274,7 @@
 | [0012-integer-to-roman](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0012-integer-to-roman) |
 | [0070-climbing-stairs](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0070-climbing-stairs) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1303-minimum-moves-to-reach-target-score) |
+| [2450-minimum-replacements-to-sort-the-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2715-k-items-with-the-maximum-sum) |
 ## Binary Search
 |  |
