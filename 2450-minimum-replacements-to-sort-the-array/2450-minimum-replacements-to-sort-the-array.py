@@ -6,7 +6,7 @@ class Solution:
             if nums[ind] <= Min:
                 Min = nums[ind]
             else:
-                ways = (nums[ind] + Min - 1) // Min  
+                ways = math.ceil(nums[ind] / Min) 
 
                 ans += ways - 1
                 
