@@ -38,6 +38,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0099-recover-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0199-binary-tree-right-side-view) |
 | [0210-course-schedule-ii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0210-course-schedule-ii) |
 | [0801-is-graph-bipartite](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0801-is-graph-bipartite) |
@@ -138,6 +139,7 @@
 ## Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0099-recover-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0199-binary-tree-right-side-view) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -149,6 +151,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0099-recover-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0199-binary-tree-right-side-view) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -319,4 +322,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0070-climbing-stairs) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0099-recover-binary-search-tree) |
 <!---LeetCode Topics End-->
