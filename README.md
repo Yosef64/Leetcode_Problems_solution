@@ -120,6 +120,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0542-01-matrix) |
 | [1117-as-far-from-land-as-possible](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1117-as-far-from-land-as-possible) |
+| [1236-n-th-tribonacci-number](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1236-n-th-tribonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -276,6 +277,7 @@
 | [0002-add-two-numbers](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0012-integer-to-roman) |
 | [0070-climbing-stairs](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0070-climbing-stairs) |
+| [1236-n-th-tribonacci-number](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1236-n-th-tribonacci-number) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2715-k-items-with-the-maximum-sum) |
@@ -322,6 +324,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0070-climbing-stairs) |
+| [1236-n-th-tribonacci-number](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1236-n-th-tribonacci-number) |
 ## Binary Search Tree
 |  |
 | ------- |
