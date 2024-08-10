@@ -1,20 +1,18 @@
 class Solution:
-    def longestCommonSubsequence(self, t1: str, t2: str) -> int:
-        dic = defaultdict(list)
-        memo = {}
-        for ind,char in enumerate(t2):
-            dic[char].append(ind)
+    def longestCommonSubsequence(self, text1: str, text2: str) -> int:
+        memoMap = {}
         
-        def dp(f,s):
-            if f == len(t1) or s == len(t2):
+        def lcs(i, j):
+            if i == len(text1) or j == len(text2):
                 return 0
-            if (f,s) not in memo:
-                include = 0
-                for ind in dic[t1[f]]:
-                    if ind >= s:
-                        include = dp(f + 1, ind+1) + 1
-                        break
-                exclude = dp(f + 1, s)
-                memo[(f,s)] = max(include,exclude)
-            return memo[(f,s)]
-        return dp(0,0)
+            key = (i, j)
+            if key in memoMap:
+                return memoMap[key]
+            if text1[i] == text2[j]:
+                result = 1 + lcs(i + 1, j + 1)
+            else:
+                result = max(lcs(i, j + 1), lcs(i + 1, j))
+            memoMap[key] = result
+            return result
+        
+        return lcs(0, 0)
