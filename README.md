@@ -82,6 +82,7 @@
 | [0480-sliding-window-median](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0480-sliding-window-median) |
 | [0542-01-matrix](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0621-task-scheduler) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0833-bus-routes](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0833-bus-routes) |
 | [0881-loud-and-rich](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0881-loud-and-rich) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0887-minimum-cost-to-hire-k-workers) |
@@ -128,6 +129,7 @@
 | [0322-coin-change](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0542-01-matrix) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1117-as-far-from-land-as-possible](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1117-as-far-from-land-as-possible) |
 | [1236-n-th-tribonacci-number](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1236-n-th-tribonacci-number) |
 ## Hash Table
@@ -266,6 +268,7 @@
 | [0134-gas-station](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0134-gas-station) |
 | [0324-wiggle-sort-ii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0324-wiggle-sort-ii) |
 | [0621-task-scheduler](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0621-task-scheduler) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0778-reorganize-string](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0778-reorganize-string) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [1095-two-city-scheduling](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1095-two-city-scheduling) |
