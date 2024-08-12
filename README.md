@@ -105,6 +105,7 @@
 | [2479-meeting-rooms-iii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2479-meeting-rooms-iii) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2636-maximum-subsequence-score) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Matrix
 |  |
 | ------- |
@@ -310,6 +311,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0480-sliding-window-median](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0480-sliding-window-median) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Recursion
 |  |
 | ------- |
@@ -352,4 +354,16 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0062-unique-paths) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Queue
+|  |
+| ------- |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 <!---LeetCode Topics End-->
