@@ -102,6 +102,7 @@
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1962-single-threaded-cpu](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1962-single-threaded-cpu) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2262-solving-questions-with-brainpower](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2262-solving-questions-with-brainpower) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2479-meeting-rooms-iii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2479-meeting-rooms-iii) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2553-total-cost-to-hire-k-workers) |
@@ -137,6 +138,7 @@
 | [1117-as-far-from-land-as-possible](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1117-as-far-from-land-as-possible) |
 | [1236-n-th-tribonacci-number](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1250-longest-common-subsequence) |
+| [2262-solving-questions-with-brainpower](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2262-solving-questions-with-brainpower) |
 ## Hash Table
 |  |
 | ------- |
