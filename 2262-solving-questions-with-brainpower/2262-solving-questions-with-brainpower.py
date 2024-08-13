@@ -8,10 +8,6 @@ class Solution:
             con = questions[ind][1] + ind+1 < n
             if con:
                 jump = dp[questions[ind][1]+1+ind]
-                # print(jump,questions[ind][0])
             dp[ind] = max(jump+questions[ind][0],dp[ind+1]) if con else max(questions[ind][0],dp[ind+1])
-            # print(ind,dp,max(jump+questions[ind][0],dp[ind-1]))
-        return dp[0]
-            
 
-        return dp[time_limit] 
+        return dp[0]
