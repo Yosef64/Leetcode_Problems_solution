@@ -1,12 +1,14 @@
 class Solution(object):
     def countVowelStrings(self, n):
-        a, e, i, o, u = 1, 1, 1, 1, 1
+        dp = [[0] * 5 for _ in range(n + 1)]
 
-        while n > 1:
-            o += u
-            i += o
-            e += i
-            a += e
-            n -= 1
+        for j in range(5):
+            dp[1][j] = 1
 
-        return a + e + i + o + u
+        for i in range(2, n + 1):
+            for j in range(5):
+                for k in range(j, 5):
+                    dp[i][j] += dp[i - 1][k]
+
+        result = sum(dp[n])
+        return result
