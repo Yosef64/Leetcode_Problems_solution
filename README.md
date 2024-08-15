@@ -138,6 +138,7 @@
 | [1117-as-far-from-land-as-possible](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1117-as-far-from-land-as-possible) |
 | [1236-n-th-tribonacci-number](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1250-longest-common-subsequence) |
+| [1761-count-sorted-vowel-strings](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1761-count-sorted-vowel-strings) |
 | [2262-solving-questions-with-brainpower](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2262-solving-questions-with-brainpower) |
 ## Hash Table
 |  |
@@ -303,6 +304,7 @@
 | [0070-climbing-stairs](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0070-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1236-n-th-tribonacci-number) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1303-minimum-moves-to-reach-target-score) |
+| [1761-count-sorted-vowel-strings](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1761-count-sorted-vowel-strings) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2715-k-items-with-the-maximum-sum) |
 ## Binary Search
@@ -361,6 +363,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0062-unique-paths) |
+| [1761-count-sorted-vowel-strings](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1761-count-sorted-vowel-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
