@@ -1,14 +1,19 @@
-class Solution(object):
-    def countVowelStrings(self, n):
-        dp = [[0] * 5 for _ in range(n + 1)]
+class Solution:
+    def countVowelStrings(self, n: int) -> int:
+        memo = {}
+        def dp(ind,cur):
+            if ind == 4:return 1
 
-        for j in range(5):
-            dp[1][j] = 1
-
-        for i in range(2, n + 1):
-            for j in range(5):
-                for k in range(j, 5):
-                    dp[i][j] += dp[i - 1][k]
-
-        result = sum(dp[n])
-        return result
+            if (ind,cur) in memo:return memo[(ind,cur)]
+            curAns = 1
+            for com in range(1,cur):
+                for i in range(ind+1,5):
+                    # print(i,com)
+                    curAns += dp(i,com)
+            
+            memo[(ind,cur)] = curAns
+            return memo[(ind,cur)]
+        ans = 0
+        for i in range(5):
+            ans += dp(i,n)
+        return ans
