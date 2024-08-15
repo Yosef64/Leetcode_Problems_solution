@@ -4,7 +4,7 @@ class Solution:
         def dp(ind,cur):
             if ind == 4:return 1
 
-            if (ind,n) in memo:return memo[(ind,n)]
+            if (ind,cur) in memo:return memo[(ind,cur)]
             curAns = 1
             for com in range(1,cur):
                 for i in range(ind+1,5):
