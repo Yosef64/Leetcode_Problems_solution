@@ -13,4 +13,4 @@ class Solution:
                     grid[row][col] = grid[row+1][col] + grid[row][col+1] if col < cols-1 else grid[row+1][col]
         return grid[0][0]
 
-        return 0
+       
