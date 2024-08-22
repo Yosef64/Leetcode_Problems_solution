@@ -71,6 +71,7 @@
 | [0055-jump-game](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0134-gas-station) |
 | [0198-house-robber](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0198-house-robber) |
@@ -136,6 +137,7 @@
 | [0064-minimum-path-sum](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0115-distinct-subsequences) |
+| [0120-triangle](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0213-house-robber-ii) |
