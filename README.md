@@ -98,6 +98,7 @@
 | [0945-snakes-and-ladders](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0945-snakes-and-ladders) |
 | [0948-sort-an-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0948-sort-an-array) |
 | [0951-partition-array-into-disjoint-intervals](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0951-partition-array-into-disjoint-intervals) |
+| [1063-best-sightseeing-pair](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1063-best-sightseeing-pair) |
 | [1095-two-city-scheduling](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1095-two-city-scheduling) |
 | [1117-as-far-from-land-as-possible](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1117-as-far-from-land-as-possible) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1207-delete-nodes-and-return-forest) |
@@ -155,6 +156,7 @@
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0815-champagne-tower](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0815-champagne-tower) |
+| [1063-best-sightseeing-pair](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1063-best-sightseeing-pair) |
 | [1117-as-far-from-land-as-possible](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1117-as-far-from-land-as-possible) |
 | [1236-n-th-tribonacci-number](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1250-longest-common-subsequence) |
