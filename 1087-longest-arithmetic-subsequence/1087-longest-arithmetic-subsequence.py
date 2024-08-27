@@ -1,17 +1,15 @@
 class Solution:
     def longestArithSeqLength(self, nums: List[int]) -> int:
-        dp , ans = [] , 0
+        dp , ans = defaultdict(int) , 0
 
         for ind , val in enumerate(nums):
-            temp = defaultdict(int)
             for j in range(ind):
                 dif = val - nums[j]
-                if dif in dp[j]:
-                    temp[dif] = max(temp[dif],dp[j][dif]+1)
+                if dp[(j,dif)]:
+                    dp[(ind,dif)] = max(dp[(ind,dif)],dp[(j,dif)]+1)
                 else:
-                    temp[dif] =  max(temp[dif],1)
-                ans = max(ans,temp[dif])
-            dp.append(temp)
+                    dp[(ind,dif)] =  max(dp[(ind,dif)],1)
+                ans = max(ans,dp[(ind,dif)])
         return ans + 1
         
 
