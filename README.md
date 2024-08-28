@@ -179,6 +179,7 @@
 | [0001-two-sum](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0013-roman-to-integer) |
 | [0480-sliding-window-median](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0480-sliding-window-median) |
 | [0621-task-scheduler](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0778-reorganize-string) |
@@ -232,6 +233,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0013-roman-to-integer) |
 | [0091-decode-ways](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0115-distinct-subsequences) |
 | [0179-largest-number](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0179-largest-number) |
@@ -350,6 +352,7 @@
 | [0002-add-two-numbers](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0096-unique-binary-search-trees) |
