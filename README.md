@@ -230,6 +230,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0012-integer-to-roman) |
 | [0091-decode-ways](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0115-distinct-subsequences) |
