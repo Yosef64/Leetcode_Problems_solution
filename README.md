@@ -145,6 +145,7 @@
 | [0064-minimum-path-sum](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0091-decode-ways) |
+| [0096-unique-binary-search-trees](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -194,6 +195,7 @@
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0099-recover-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0199-binary-tree-right-side-view) |
 | [0337-house-robber-iii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0337-house-robber-iii) |
@@ -207,6 +209,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0099-recover-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0199-binary-tree-right-side-view) |
 | [0337-house-robber-iii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0337-house-robber-iii) |
@@ -347,6 +350,7 @@
 | [0012-integer-to-roman](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0012-integer-to-roman) |
 | [0062-unique-paths](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0096-unique-binary-search-trees) |
 | [1236-n-th-tribonacci-number](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1236-n-th-tribonacci-number) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1761-count-sorted-vowel-strings](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1761-count-sorted-vowel-strings) |
@@ -404,6 +408,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0099-recover-binary-search-tree) |
 ## Combinatorics
 |  |
