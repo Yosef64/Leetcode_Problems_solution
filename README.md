@@ -155,6 +155,7 @@
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0337-house-robber-iii) |
+| [0338-counting-bits](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0338-counting-bits) |
 | [0376-wiggle-subsequence](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0416-partition-equal-subset-sum) |
@@ -423,6 +424,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0338-counting-bits) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Queue
 |  |
