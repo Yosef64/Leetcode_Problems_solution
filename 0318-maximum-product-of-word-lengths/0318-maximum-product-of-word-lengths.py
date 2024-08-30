@@ -12,6 +12,6 @@ class Solution:
         MaxLength = 0
         for ind in range(len(ans)-1):
             for ind1 in range(ind+1,len(ans)):
-                if ans[ind]&ans[ind1]==0:
-                    MaxLength = max(MaxLength,len(words[ind])*len(words[ind1]))
+                if ans[ind] & ans[ind1] == 0:
+                    MaxLength = max(MaxLength,len(words[ind]) * len(words[ind1]))
         return MaxLength
