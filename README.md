@@ -193,6 +193,7 @@
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1873-longest-nice-substring](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1873-longest-nice-substring) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2413-smallest-number-in-infinite-set) |
 | [2479-meeting-rooms-iii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2479-meeting-rooms-iii) |
 ## Tree
@@ -246,6 +247,7 @@
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1250-longest-common-subsequence](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1250-longest-common-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1873-longest-nice-substring](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1873-longest-nice-substring) |
 ## Design
 |  |
 | ------- |
@@ -260,6 +262,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0324-wiggle-sort-ii) |
 | [0948-sort-an-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0948-sort-an-array) |
+| [1873-longest-nice-substring](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1873-longest-nice-substring) |
 ## Sorting
 |  |
 | ------- |
@@ -378,6 +381,7 @@
 | [0480-sliding-window-median](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0480-sliding-window-median) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1873-longest-nice-substring](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1873-longest-nice-substring) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Recursion
 |  |
@@ -431,6 +435,7 @@
 | [0461-hamming-distance](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0476-number-complement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0693-binary-number-with-alternating-bits) |
+| [1873-longest-nice-substring](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1873-longest-nice-substring) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Queue
 |  |
