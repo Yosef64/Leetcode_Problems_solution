@@ -142,6 +142,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0063-unique-paths-ii) |
@@ -231,6 +232,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0022-generate-parentheses) |
 | [0494-target-sum](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0494-target-sum) |
 | [0813-all-paths-from-source-to-target](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0813-all-paths-from-source-to-target) |
 ## String
@@ -241,6 +243,7 @@
 | [0006-zigzag-conversion](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0013-roman-to-integer) |
+| [0022-generate-parentheses](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0115-distinct-subsequences) |
