@@ -187,6 +187,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0013-roman-to-integer) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0480-sliding-window-median](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0480-sliding-window-median) |
 | [0621-task-scheduler](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0778-reorganize-string) |
@@ -244,6 +245,7 @@
 | [0012-integer-to-roman](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0022-generate-parentheses) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0072-edit-distance](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0115-distinct-subsequences) |
@@ -389,6 +391,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0480-sliding-window-median](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0480-sliding-window-median) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
