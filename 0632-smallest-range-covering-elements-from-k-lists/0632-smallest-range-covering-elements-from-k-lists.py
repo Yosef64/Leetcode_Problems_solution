@@ -1,6 +1,3 @@
-import heapq
-from typing import List
-
 class Solution:
     def smallestRange(self, nums: List[List[int]]) -> List[int]:
         pq = [(row[0], i, 0) for i, row in enumerate(nums)]
