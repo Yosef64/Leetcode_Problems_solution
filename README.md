@@ -100,6 +100,7 @@
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0747-min-cost-climbing-stairs](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0747-min-cost-climbing-stairs) |
 | [0833-bus-routes](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0833-bus-routes) |
 | [0881-loud-and-rich](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0881-loud-and-rich) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0887-minimum-cost-to-hire-k-workers) |
@@ -174,6 +175,7 @@
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0747-min-cost-climbing-stairs](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0747-min-cost-climbing-stairs) |
 | [0815-champagne-tower](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0815-champagne-tower) |
 | [1063-best-sightseeing-pair](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1063-best-sightseeing-pair) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1087-longest-arithmetic-subsequence) |
