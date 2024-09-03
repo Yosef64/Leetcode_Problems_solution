@@ -99,6 +99,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0833-bus-routes](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0833-bus-routes) |
 | [0881-loud-and-rich](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0881-loud-and-rich) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0887-minimum-cost-to-hire-k-workers) |
@@ -172,6 +173,7 @@
 | [0647-palindromic-substrings](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0647-palindromic-substrings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0815-champagne-tower](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0815-champagne-tower) |
 | [1063-best-sightseeing-pair](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1063-best-sightseeing-pair) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1087-longest-arithmetic-subsequence) |
@@ -391,6 +393,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0300-longest-increasing-subsequence](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0300-longest-increasing-subsequence) |
 | [0475-heaters](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0475-heaters) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1087-longest-arithmetic-subsequence) |
 ## Sliding Window
 |  |
@@ -399,6 +402,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0480-sliding-window-median](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0480-sliding-window-median) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1873-longest-nice-substring](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1873-longest-nice-substring) |
@@ -473,4 +477,12 @@
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Rolling Hash
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0718-maximum-length-of-repeated-subarray) |
 <!---LeetCode Topics End-->
