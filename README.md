@@ -77,6 +77,7 @@
 | [0120-triangle](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0134-gas-station) |
+| [0137-single-number-ii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0137-single-number-ii) |
 | [0179-largest-number](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0213-house-robber-ii) |
@@ -456,6 +457,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0137-single-number-ii) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0318-maximum-product-of-word-lengths) |
 | [0338-counting-bits](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0338-counting-bits) |
 | [0461-hamming-distance](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0461-hamming-distance) |
