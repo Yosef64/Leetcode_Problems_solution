@@ -10,8 +10,8 @@ class Solution:
         def union(x,y):
             root1 = find(x)
             root2 = find(y)
-            if root1 != root2:
-                parent[root2] = root1
+            
+            parent[root2] = root1
 
         for fE,sE in edges:
             if find(fE) == find(sE):
