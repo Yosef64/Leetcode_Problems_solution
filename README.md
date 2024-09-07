@@ -27,6 +27,7 @@
 | [1876-map-of-highest-peak](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1876-map-of-highest-peak) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Graph
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2439-longest-cycle-in-a-graph](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2439-longest-cycle-in-a-graph) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -65,6 +67,7 @@
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2439-longest-cycle-in-a-graph](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2439-longest-cycle-in-a-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Union Find
 |  |
 | ------- |
@@ -72,6 +75,7 @@
 | [0684-redundant-connection](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0801-is-graph-bipartite) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Array
 |  |
 | ------- |
