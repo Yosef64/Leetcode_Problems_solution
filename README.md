@@ -11,6 +11,7 @@
 | [0542-01-matrix](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0820-find-eventual-safe-states) |
@@ -52,6 +53,7 @@
 | [0337-house-robber-iii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0337-house-robber-iii) |
 | [0547-number-of-provinces](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0820-find-eventual-safe-states) |
@@ -73,6 +75,7 @@
 | ------- |
 | [0547-number-of-provinces](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0801-is-graph-bipartite) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
@@ -113,6 +116,7 @@
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0721-accounts-merge](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0721-accounts-merge) |
 | [0747-min-cost-climbing-stairs](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0747-min-cost-climbing-stairs) |
 | [0833-bus-routes](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0833-bus-routes) |
 | [0881-loud-and-rich](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0881-loud-and-rich) |
@@ -209,6 +213,7 @@
 | [0480-sliding-window-median](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0480-sliding-window-median) |
 | [0621-task-scheduler](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0721-accounts-merge](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0721-accounts-merge) |
 | [0778-reorganize-string](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0778-reorganize-string) |
 | [0833-bus-routes](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0833-bus-routes) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
@@ -272,6 +277,7 @@
 | [0318-maximum-product-of-word-lengths](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0318-maximum-product-of-word-lengths) |
 | [0468-validate-ip-address](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0468-validate-ip-address) |
 | [0647-palindromic-substrings](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0647-palindromic-substrings) |
+| [0721-accounts-merge](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0721-accounts-merge) |
 | [0778-reorganize-string](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0778-reorganize-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1250-longest-common-subsequence](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1250-longest-common-subsequence) |
@@ -303,6 +309,7 @@
 | [0475-heaters](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0475-heaters) |
 | [0621-task-scheduler](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0721-accounts-merge](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0721-accounts-merge) |
 | [0778-reorganize-string](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0778-reorganize-string) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0948-sort-an-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0948-sort-an-array) |
