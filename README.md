@@ -283,6 +283,7 @@
 | [1250-longest-common-subsequence](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1250-longest-common-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1873-longest-nice-substring](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1873-longest-nice-substring) |
+| [3567-convert-date-to-binary](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/3567-convert-date-to-binary) |
 ## Design
 |  |
 | ------- |
@@ -409,6 +410,7 @@
 | [1761-count-sorted-vowel-strings](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1761-count-sorted-vowel-strings) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2715-k-items-with-the-maximum-sum) |
+| [3567-convert-date-to-binary](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/3567-convert-date-to-binary) |
 ## Binary Search
 |  |
 | ------- |
