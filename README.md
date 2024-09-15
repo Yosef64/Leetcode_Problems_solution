@@ -39,6 +39,7 @@
 | [0813-all-paths-from-source-to-target](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0820-find-eventual-safe-states) |
 | [0881-loud-and-rich](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0881-loud-and-rich) |
+| [1032-satisfiability-of-equality-equations](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1032-satisfiability-of-equality-equations) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -77,6 +78,7 @@
 | [0684-redundant-connection](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0801-is-graph-bipartite) |
+| [1032-satisfiability-of-equality-equations](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1032-satisfiability-of-equality-equations) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Array
@@ -124,6 +126,7 @@
 | [0945-snakes-and-ladders](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0945-snakes-and-ladders) |
 | [0948-sort-an-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0948-sort-an-array) |
 | [0951-partition-array-into-disjoint-intervals](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0951-partition-array-into-disjoint-intervals) |
+| [1032-satisfiability-of-equality-equations](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1032-satisfiability-of-equality-equations) |
 | [1063-best-sightseeing-pair](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1063-best-sightseeing-pair) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1087-longest-arithmetic-subsequence) |
 | [1095-two-city-scheduling](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1095-two-city-scheduling) |
@@ -279,6 +282,7 @@
 | [0647-palindromic-substrings](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0647-palindromic-substrings) |
 | [0721-accounts-merge](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0721-accounts-merge) |
 | [0778-reorganize-string](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0778-reorganize-string) |
+| [1032-satisfiability-of-equality-equations](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1032-satisfiability-of-equality-equations) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1250-longest-common-subsequence](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1250-longest-common-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
