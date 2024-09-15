@@ -5,7 +5,6 @@ class Solution:
             if eq[1] != '!':
                 graph[eq[0]].append(eq[-1])
                 graph[eq[-1]].append(eq[0])
-        print(graph)
         def dfs(node,path,t):
             if node in path or t == node:
                 return not t == node
