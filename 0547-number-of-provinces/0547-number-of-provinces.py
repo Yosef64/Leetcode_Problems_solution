@@ -7,8 +7,8 @@ class Solution:
                 return cur
             return find(nodes[cur])
         def union(n1, n2):
-            pn1 , pn2 = find(n1),find(n2)
-            nodes[pn1] = pn2
+            pn , pn2 = find(n1),find(n2)
+            nodes[pn] = pn2
         for row in range(rows):
             for col in range(cols):
                 if c[row][col] == 1:
