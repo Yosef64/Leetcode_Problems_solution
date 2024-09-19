@@ -173,6 +173,7 @@
 | [0070-climbing-stairs](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0091-decode-ways) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0120-triangle) |
@@ -232,6 +233,7 @@
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0099-recover-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0199-binary-tree-right-side-view) |
@@ -246,6 +248,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0099-recover-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0199-binary-tree-right-side-view) |
@@ -261,6 +264,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0022-generate-parentheses) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0095-unique-binary-search-trees-ii) |
 | [0494-target-sum](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0494-target-sum) |
 | [0813-all-paths-from-source-to-target](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0813-all-paths-from-source-to-target) |
 ## String
@@ -472,6 +476,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0099-recover-binary-search-tree) |
 ## Combinatorics
