@@ -49,6 +49,7 @@
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0099-recover-binary-search-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0199-binary-tree-right-side-view) |
 | [0210-course-schedule-ii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0210-course-schedule-ii) |
 | [0337-house-robber-iii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0337-house-robber-iii) |
@@ -181,6 +182,7 @@
 | [0120-triangle](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0279-perfect-squares) |
@@ -239,6 +241,7 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0099-recover-binary-search-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0199-binary-tree-right-side-view) |
 | [0337-house-robber-iii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0337-house-robber-iii) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
@@ -254,6 +257,7 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0099-recover-binary-search-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0199-binary-tree-right-side-view) |
 | [0337-house-robber-iii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0337-house-robber-iii) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
