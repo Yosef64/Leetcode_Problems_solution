@@ -168,6 +168,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0063-unique-paths-ii) |
@@ -284,6 +285,7 @@
 | [0013-roman-to-integer](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0097-interleaving-string) |
@@ -527,4 +529,8 @@
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
