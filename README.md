@@ -149,6 +149,7 @@
 | [2479-meeting-rooms-iii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2479-meeting-rooms-iii) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2636-maximum-subsequence-score) |
+| [2755-extra-characters-in-a-string](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2755-extra-characters-in-a-string) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Matrix
 |  |
@@ -213,6 +214,7 @@
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1761-count-sorted-vowel-strings](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1761-count-sorted-vowel-strings) |
 | [2262-solving-questions-with-brainpower](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2262-solving-questions-with-brainpower) |
+| [2755-extra-characters-in-a-string](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2755-extra-characters-in-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -237,6 +239,7 @@
 | [1873-longest-nice-substring](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1873-longest-nice-substring) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2413-smallest-number-in-infinite-set) |
 | [2479-meeting-rooms-iii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2479-meeting-rooms-iii) |
+| [2755-extra-characters-in-a-string](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2755-extra-characters-in-a-string) |
 ## Tree
 |  |
 | ------- |
@@ -303,6 +306,7 @@
 | [1250-longest-common-subsequence](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1250-longest-common-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1873-longest-nice-substring](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1873-longest-nice-substring) |
+| [2755-extra-characters-in-a-string](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2755-extra-characters-in-a-string) |
 | [3567-convert-date-to-binary](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/3567-convert-date-to-binary) |
 ## Design
 |  |
@@ -535,4 +539,8 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0032-longest-valid-parentheses) |
+## Trie
+|  |
+| ------- |
+| [2755-extra-characters-in-a-string](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2755-extra-characters-in-a-string) |
 <!---LeetCode Topics End-->
