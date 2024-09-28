@@ -124,6 +124,7 @@
 | [0729-my-calendar-i](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0729-my-calendar-i) |
 | [0747-min-cost-climbing-stairs](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0747-min-cost-climbing-stairs) |
 | [0833-bus-routes](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0833-bus-routes) |
+| [0859-design-circular-deque](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0859-design-circular-deque) |
 | [0881-loud-and-rich](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0881-loud-and-rich) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0945-snakes-and-ladders](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0945-snakes-and-ladders) |
@@ -314,6 +315,7 @@
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0295-find-median-from-data-stream) |
 | [0729-my-calendar-i](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0729-my-calendar-i) |
+| [0859-design-circular-deque](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0859-design-circular-deque) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2413-smallest-number-in-infinite-set) |
 ## Divide and Conquer
@@ -374,6 +376,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0023-merge-k-sorted-lists) |
+| [0859-design-circular-deque](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0859-design-circular-deque) |
 ## Merge Sort
 |  |
 | ------- |
@@ -517,6 +520,7 @@
 ## Queue
 |  |
 | ------- |
+| [0859-design-circular-deque](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0859-design-circular-deque) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Prefix Sum
 |  |
