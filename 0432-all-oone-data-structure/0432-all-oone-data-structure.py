@@ -46,16 +46,13 @@ class AllOne:
             next = next.next
             prev = prev.next
         cur.prev , cur.next = prev,next
-        if not next:
         
-            if not self.count[key]:
-                self.end = prev
-                prev.next = None
-                del self.count[key]
-                del self.pair[key]
-            else:
-                prev.next = cur
-        else:
+        if not self.count[key]:
+            self.end = prev
+            prev.next = None
+            del self.count[key]
+            del self.pair[key]
+        elif next:
             if prev:
                 prev.next = cur 
             next.prev = cur
