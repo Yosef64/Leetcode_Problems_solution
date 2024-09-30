@@ -225,6 +225,7 @@
 | [0012-integer-to-roman](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0432-all-oone-data-structure](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0432-all-oone-data-structure) |
 | [0480-sliding-window-median](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0480-sliding-window-median) |
 | [0621-task-scheduler](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -314,6 +315,7 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0295-find-median-from-data-stream) |
+| [0432-all-oone-data-structure](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0729-my-calendar-i) |
 | [0859-design-circular-deque](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0859-design-circular-deque) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -377,6 +379,7 @@
 | [0002-add-two-numbers](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0023-merge-k-sorted-lists) |
+| [0432-all-oone-data-structure](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0432-all-oone-data-structure) |
 | [0859-design-circular-deque](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0859-design-circular-deque) |
 ## Merge Sort
 |  |
@@ -557,4 +560,8 @@
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0729-my-calendar-i) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
