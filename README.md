@@ -34,9 +34,14 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0020-valid-parentheses) |
 | [0567-permutation-in-string](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0567-permutation-in-string) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
