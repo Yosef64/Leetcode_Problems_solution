@@ -45,7 +45,6 @@ class Solution:
                 count2 += 1
                 if count2 == 2:
                     break
-        print(count1,count2, (n,m))
         return (count1 < 2 and n != m ) or (count2 < 2 and n != m)
 
             
