@@ -37,6 +37,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0020-valid-parentheses) |
 | [0567-permutation-in-string](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0567-permutation-in-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Sliding Window
@@ -47,6 +48,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0020-valid-parentheses) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Simulation
@@ -56,5 +58,6 @@
 ## Greedy
 |  |
 | ------- |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 <!---LeetCode Topics End-->
