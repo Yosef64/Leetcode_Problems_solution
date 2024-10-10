@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0027-remove-element) |
+| [0148-sort-list](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0148-sort-list) |
 | [0567-permutation-in-string](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0567-permutation-in-string) |
 | [1923-sentence-similarity-iii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -34,6 +35,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0347-top-k-frequent-elements) |
 | [1256-rank-transform-of-an-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1256-rank-transform-of-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -69,6 +71,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -86,4 +89,12 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0347-top-k-frequent-elements) |
+## Linked List
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
