@@ -10,16 +10,11 @@ class Solution:
             
         while True:
             minVal , minInd,Ind = heapq.heappop(minHeap)
-            if maxEle - minVal <= ans[1] - ans[0]:
-                if maxEle - minVal == ans[1] - ans[0]:
-                    ans = min(ans,[minVal,maxEle])
-                else:
-                    ans = [minVal , maxEle]
-            
+            if maxEle - minVal < ans[1] - ans[0]:
+                ans = [minVal , maxEle]
             if minInd + 1 == len(nums[Ind]):
                 return ans
             heapq.heappush(minHeap,[nums[Ind][minInd+1],minInd+1,Ind])
-            # print(minVal,maxEle)
             maxEle = max(maxEle,nums[Ind][minInd + 1])
             
             
