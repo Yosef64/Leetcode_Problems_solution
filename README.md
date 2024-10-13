@@ -8,6 +8,7 @@
 | [0027-remove-element](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0027-remove-element) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0347-top-k-frequent-elements) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0948-sort-an-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0948-sort-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1256-rank-transform-of-an-array) |
 | [1694-make-sum-divisible-by-p](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1694-make-sum-divisible-by-p) |
@@ -29,6 +30,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0347-top-k-frequent-elements) |
 | [0567-permutation-in-string](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0567-permutation-in-string) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1256-rank-transform-of-an-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1256-rank-transform-of-an-array) |
 | [1694-make-sum-divisible-by-p](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1694-make-sum-divisible-by-p) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -42,6 +44,7 @@
 | ------- |
 | [0148-sort-list](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0347-top-k-frequent-elements) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0948-sort-an-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0948-sort-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1256-rank-transform-of-an-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -59,6 +62,7 @@
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0567-permutation-in-string) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Stack
 |  |
 | ------- |
@@ -73,6 +77,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -87,6 +92,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0347-top-k-frequent-elements) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0948-sort-an-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0948-sort-an-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Bucket Sort
