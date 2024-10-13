@@ -1,17 +1,28 @@
 class Solution:
     def smallestRange(self, nums: List[List[int]]) -> List[int]:
-        pq = [(row[0], i, 0) for i, row in enumerate(nums)]
-        heapq.heapify(pq)
-        
-        ans = [float("-inf"), float("inf")]
-        right = max(row[0] for row in nums)
-        
-        while pq:
-            left, i, j = heapq.heappop(pq)
-            if right - left < ans[1] - ans[0]:
-                ans = [left, right]
-            if j + 1 == len(nums[i]):
+        ans = [float("-inf"),float("inf")]
+        minHeap ,maxHeap = [] ,[]
+        maxEle = float("-inf")
+        for ind in range(len(nums)):
+            maxEle = max(maxEle,nums[ind][0])
+            # print(nums[ind][0])
+            heapq.heappush(minHeap,[nums[ind][0],0,ind])
+            
+        while True:
+            minVal , minInd,Ind = heapq.heappop(minHeap)
+            if maxEle - minVal <= ans[1] - ans[0]:
+                if maxEle - minVal == ans[1] - ans[0]:
+                    ans = min(ans,[minVal,maxEle])
+                else:
+                    ans = [minVal , maxEle]
+            
+            if minInd + 1 == len(nums[Ind]):
                 return ans
-            v = nums[i][j+1]
-            right = max(right, v)
-            heapq.heappush(pq, (v, i, j+1))
+            heapq.heappush(minHeap,[nums[Ind][minInd+1],minInd+1,Ind])
+            # print(minVal,maxEle)
+            maxEle = max(maxEle,nums[Ind][minInd + 1])
+            
+            
+
+
+ 
