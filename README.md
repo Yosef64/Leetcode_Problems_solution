@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0027-remove-element) |
+| [0053-maximum-subarray](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0053-maximum-subarray) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0347-top-k-frequent-elements) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -89,6 +90,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0148-sort-list) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0347-top-k-frequent-elements) |
@@ -148,4 +150,8 @@
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
