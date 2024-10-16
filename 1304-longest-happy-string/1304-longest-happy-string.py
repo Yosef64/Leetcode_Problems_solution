@@ -6,10 +6,8 @@ class Solution:
             n , char = heappop(heap)
             if n == 0:return ans
             if len(ans) >= 2 and ans[-2:] == char * 2:
+                if heap[0][0] == 0:return ans
                 n2 , char1 = heappop(heap)
-                
-                if n2 == 0:return ans
-
                 ans += char1
                 heappush(heap,[n2+1,char1])
                 heappush(heap,[n,char])
