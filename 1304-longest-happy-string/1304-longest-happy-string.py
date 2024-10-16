@@ -1,9 +1,7 @@
 class Solution:
     def longestDiverseString(self, a: int, b: int, c: int) -> str:
-        heap , ans = [] , ""
-        for ls in [[-a,"a"],[-b,"b"],[-c,"c"]]:
-            heapq.heappush(heap,ls)
-        
+        heap , ans =  [[-a,"a"],[-b,"b"],[-c,"c"]] , ""
+        heapify(heap)
         while True:
             n , char = heappop(heap)
             if n == 0:return ans
