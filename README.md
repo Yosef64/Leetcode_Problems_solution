@@ -13,6 +13,7 @@
 | [0948-sort-an-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0948-sort-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1256-rank-transform-of-an-array) |
 | [1694-make-sum-divisible-by-p](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1694-make-sum-divisible-by-p) |
+| [1757-minimum-jumps-to-reach-home](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1757-minimum-jumps-to-reach-home) |
 | [1923-sentence-similarity-iii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1923-sentence-similarity-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -158,8 +159,13 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0053-maximum-subarray) |
+| [1757-minimum-jumps-to-reach-home](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1757-minimum-jumps-to-reach-home) |
 ## Math
 |  |
 | ------- |
 | [0670-maximum-swap](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0670-maximum-swap) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1757-minimum-jumps-to-reach-home](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1757-minimum-jumps-to-reach-home) |
 <!---LeetCode Topics End-->
