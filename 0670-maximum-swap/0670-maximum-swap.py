@@ -7,7 +7,6 @@ class Solution:
                 if arr[maxInd] < arr[ind1] or (arr[maxInd] == arr[ind1] and maxInd!=ind):
                     maxInd = ind1  
             if maxInd > ind:
-                print(arr[maxInd],arr[ind])
                 arr[maxInd] , arr[ind] = arr[ind] , arr[maxInd]
                 break
         return int("".join(arr))
