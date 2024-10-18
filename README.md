@@ -12,6 +12,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0948-sort-an-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0948-sort-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1256-rank-transform-of-an-array) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1694-make-sum-divisible-by-p) |
 | [1757-minimum-jumps-to-reach-home](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1757-minimum-jumps-to-reach-home) |
 | [1923-sentence-similarity-iii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1923-sentence-similarity-iii) |
@@ -37,6 +38,7 @@
 | [0567-permutation-in-string](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1256-rank-transform-of-an-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1256-rank-transform-of-an-array) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1694-make-sum-divisible-by-p) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Prefix Sum
@@ -118,6 +120,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0347-top-k-frequent-elements) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## Quickselect
 |  |
 | ------- |
