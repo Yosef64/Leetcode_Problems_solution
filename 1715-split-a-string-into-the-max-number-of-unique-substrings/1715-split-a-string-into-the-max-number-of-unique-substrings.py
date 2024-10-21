@@ -2,6 +2,7 @@ class Solution:
     def maxUniqueSplit(self, s: str) -> int:
         v , n = set() , len(s)
         ans = 0
+        
         def rec(ind,path):
             nonlocal ans
             if ind == n:
