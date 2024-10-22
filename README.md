@@ -63,6 +63,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0020-valid-parentheses) |
+| [0038-count-and-say](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0038-count-and-say) |
 | [0567-permutation-in-string](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0567-permutation-in-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1197-parsing-a-boolean-expression) |
