@@ -64,6 +64,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0038-count-and-say) |
 | [0567-permutation-in-string](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0567-permutation-in-string) |
@@ -229,5 +230,6 @@
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0014-longest-common-prefix) |
 | [0677-map-sum-pairs](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0677-map-sum-pairs) |
 <!---LeetCode Topics End-->
