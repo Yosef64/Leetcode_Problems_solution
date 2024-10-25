@@ -38,6 +38,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0347-top-k-frequent-elements) |
 | [0567-permutation-in-string](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0677-map-sum-pairs](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0677-map-sum-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1694-make-sum-divisible-by-p) |
@@ -66,6 +67,7 @@
 | [0020-valid-parentheses](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0038-count-and-say) |
 | [0567-permutation-in-string](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0567-permutation-in-string) |
+| [0677-map-sum-pairs](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0677-map-sum-pairs) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1304-longest-happy-string) |
@@ -220,4 +222,12 @@
 | ------- |
 | [0988-flip-equivalent-binary-trees](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0988-flip-equivalent-binary-trees) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2677-cousins-in-binary-tree-ii) |
+## Design
+|  |
+| ------- |
+| [0677-map-sum-pairs](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0677-map-sum-pairs) |
+## Trie
+|  |
+| ------- |
+| [0677-map-sum-pairs](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0677-map-sum-pairs) |
 <!---LeetCode Topics End-->
