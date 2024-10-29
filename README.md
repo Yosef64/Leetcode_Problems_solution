@@ -22,6 +22,7 @@
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -180,6 +181,7 @@
 | [0053-maximum-subarray](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0053-maximum-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [1757-minimum-jumps-to-reach-home](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1757-minimum-jumps-to-reach-home) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Math
 |  |
 | ------- |
@@ -236,4 +238,8 @@
 | [0014-longest-common-prefix](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0014-longest-common-prefix) |
 | [0677-map-sum-pairs](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0677-map-sum-pairs) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+## Matrix
+|  |
+| ------- |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 <!---LeetCode Topics End-->
