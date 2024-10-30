@@ -17,6 +17,7 @@
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1694-make-sum-divisible-by-p) |
 | [1757-minimum-jumps-to-reach-home](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1757-minimum-jumps-to-reach-home) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1923-sentence-similarity-iii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1923-sentence-similarity-iii) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -106,6 +107,7 @@
 | [0670-maximum-swap](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1304-longest-happy-string) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -163,6 +165,7 @@
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -181,6 +184,7 @@
 | [0053-maximum-subarray](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0053-maximum-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [1757-minimum-jumps-to-reach-home](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1757-minimum-jumps-to-reach-home) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Math
 |  |
