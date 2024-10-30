@@ -17,6 +17,4 @@ class Solution:
             if nums[ind] != nums[ind+1] and maxS[0] > 1 and (dp[ind+1][0]!= 1 or (dp[ind+1][0]==1 and nums[ind+1] < nums[ind])):
                 
                 total = max(total,maxS[0]+dp[ind+1][0] if nums[maxS[1]] != nums[ind+1] else dp[ind][1] + dp[ind+1][0]) 
-                
-        print(total)
         return n - total
