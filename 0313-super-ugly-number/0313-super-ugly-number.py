@@ -4,17 +4,17 @@ class Solution:
         ix = [0] * len(primes)
 
         for i in range(n-1):
-            next = float("inf")
+            curMin = float("inf")
             mins = []
             for ind ,val in enumerate(ix):
                 nextj = primes[ind] * result[val]
 
-                if nextj < next:
+                if nextj < curMin:
                     mins = [ind]
-                    next = nextj
-                elif nextj == next:
+                    curMin = nextj
+                elif nextj == curMin:
                     mins.append(ind)
-            result.append(next)
+            result.append(curMin)
             for val in mins:
                 ix[val] += 1
         return result[-1]
