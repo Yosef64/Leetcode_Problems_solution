@@ -27,6 +27,7 @@
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 ## Two Pointers
 |  |
 | ------- |
