@@ -14,7 +14,7 @@ class Solution:
                 while True:
                     x += dx
                     y += dy
-                    if not 0<=x<m or not 0<=y<n or g[x][y] == 2:
+                    if not (0<=x<m and 0<=y<n) or g[x][y] == 2:
                         break
                     g[x][y] = 1
         count = sum(col == 0 for row in g for col in row)
