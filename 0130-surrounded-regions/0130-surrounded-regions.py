@@ -5,8 +5,9 @@ class Solution:
         """
         rows,cols = len(board),len(board[0])
         regions = [(row,col) for row in range(rows) for col in range(cols) if board[row][col] == "O"]
-        print(regions)
+        
         v,tv = set(),set()
+        @cache
         def dfs(row,col):
             if not 0<=row<rows or not 0<=col<cols or board[row][col]=="X" or (row,col) in tv:
                 return not 0<=row<rows or not 0<=col<cols
