@@ -1,8 +1,6 @@
 class Solution:
     def findChampion(self, n: int, edges: List[List[int]]) -> int:
-        if not edges:return 0 if n == 1 else -1
         v, graph = set(),defaultdict(list)
-        edge = {ind:True for ind in range(n)}
         for g,s in edges:
             graph[g].append(s)
         def dfs(node):
