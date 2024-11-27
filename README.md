@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0027-remove-element) |
+| [0045-jump-game-ii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0053-maximum-subarray) |
 | [0130-surrounded-regions](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0130-surrounded-regions) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -123,6 +124,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0045-jump-game-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -203,6 +205,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0053-maximum-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0313-super-ugly-number](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0313-super-ugly-number) |
