@@ -10,6 +10,7 @@
 | [0053-maximum-subarray](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0053-maximum-subarray) |
 | [0130-surrounded-regions](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0130-surrounded-regions) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0274-h-index](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0274-h-index) |
 | [0313-super-ugly-number](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0313-super-ugly-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0347-top-k-frequent-elements) |
@@ -71,6 +72,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0148-sort-list) |
+| [0274-h-index](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0347-top-k-frequent-elements) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0948-sort-an-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0948-sort-an-array) |
@@ -183,6 +185,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0274-h-index) |
 | [0948-sort-an-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0948-sort-an-array) |
 ## Binary Search
 |  |
