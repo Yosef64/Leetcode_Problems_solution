@@ -21,6 +21,7 @@
 | [0697-degree-of-an-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0697-degree-of-an-array) |
 | [0948-sort-an-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0948-sort-an-array) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1168-duplicate-zeros](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1168-duplicate-zeros) |
 | [1256-rank-transform-of-an-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1256-rank-transform-of-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -44,6 +45,7 @@
 | [0027-remove-element](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0027-remove-element) |
 | [0148-sort-list](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0148-sort-list) |
 | [0567-permutation-in-string](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0567-permutation-in-string) |
+| [1168-duplicate-zeros](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1168-duplicate-zeros) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1923-sentence-similarity-iii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
