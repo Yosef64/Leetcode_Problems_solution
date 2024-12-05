@@ -40,6 +40,7 @@
 | [2699-count-the-number-of-fair-pairs](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -213,6 +214,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
