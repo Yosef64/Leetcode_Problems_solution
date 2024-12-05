@@ -34,6 +34,7 @@
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2232-adding-spaces-to-a-string](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2478-longest-nice-subarray](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2478-longest-nice-subarray) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -126,6 +127,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0966-binary-subarrays-with-sum](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0966-binary-subarrays-with-sum) |
 | [1755-defuse-the-bomb](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1755-defuse-the-bomb) |
+| [2478-longest-nice-subarray](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2478-longest-nice-subarray) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## Stack
 |  |
@@ -260,6 +262,7 @@
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2478-longest-nice-subarray](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2478-longest-nice-subarray) |
 ## Enumeration
 |  |
 | ------- |
