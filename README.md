@@ -217,6 +217,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0222-count-complete-tree-nodes) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -266,6 +267,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0222-count-complete-tree-nodes) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2478-longest-nice-subarray](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2478-longest-nice-subarray) |
 ## Enumeration
@@ -282,6 +284,7 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0173-binary-search-tree-iterator) |
+| [0222-count-complete-tree-nodes](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0222-count-complete-tree-nodes) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0988-flip-equivalent-binary-trees) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -289,6 +292,7 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0173-binary-search-tree-iterator) |
+| [0222-count-complete-tree-nodes](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0222-count-complete-tree-nodes) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0988-flip-equivalent-binary-trees) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2677-cousins-in-binary-tree-ii) |
