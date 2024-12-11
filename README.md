@@ -41,6 +41,7 @@
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Two Pointers
@@ -102,6 +103,7 @@
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## String
 |  |
 | ------- |
@@ -139,6 +141,7 @@
 | [1755-defuse-the-bomb](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1755-defuse-the-bomb) |
 | [2478-longest-nice-subarray](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2478-longest-nice-subarray) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Stack
 |  |
@@ -234,6 +237,7 @@
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Binary Indexed Tree
