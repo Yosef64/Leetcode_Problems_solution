@@ -43,6 +43,7 @@
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [2868-continuous-subarrays](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -146,6 +147,7 @@
 | [1755-defuse-the-bomb](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1755-defuse-the-bomb) |
 | [2478-longest-nice-subarray](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2478-longest-nice-subarray) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2868-continuous-subarrays](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Stack
@@ -201,6 +203,7 @@
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2868-continuous-subarrays](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2868-continuous-subarrays) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -262,6 +265,7 @@
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [2868-continuous-subarrays](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2868-continuous-subarrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -380,4 +384,12 @@
 |  |
 | ------- |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
+## Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2868-continuous-subarrays) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2868-continuous-subarrays) |
 <!---LeetCode Topics End-->
