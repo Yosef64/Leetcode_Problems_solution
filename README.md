@@ -54,6 +54,7 @@
 | [0567-permutation-in-string](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0567-permutation-in-string) |
 | [0961-long-pressed-name](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0961-long-pressed-name) |
 | [1168-duplicate-zeros](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1168-duplicate-zeros) |
+| [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1923-sentence-similarity-iii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -242,6 +243,7 @@
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0222-count-complete-tree-nodes) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -277,6 +279,7 @@
 | [0002-add-two-numbers](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0002-add-two-numbers) |
 | [0313-super-ugly-number](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0313-super-ugly-number) |
 | [0670-maximum-swap](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0670-maximum-swap) |
+| [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -373,4 +376,8 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0173-binary-search-tree-iterator) |
+## Interactive
+|  |
+| ------- |
+| [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 <!---LeetCode Topics End-->
