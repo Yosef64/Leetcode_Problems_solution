@@ -1,19 +1,18 @@
 class Solution:
     def continuousSubarrays(self, nums: List[int]) -> int:
-        q = deque([nums[0]])
-        ans = 0
-        me,mine = nums[0],nums[0]
-        for i in range(1,len(nums)):
-            
-            while q and (abs(me-nums[i])>2 or abs(mine-nums[i])>2):
-                q.popleft()
-                if q:
-                    me = max(q)
-                    mine = min(q)
-            ans+=len(q)
-            me = max(me,nums[i])
-            mine = min(mine,nums[i])
-            q.append(nums[i])
-        return ans+len(nums)
-                
-        
+        freq = defaultdict(int)
+        left = right = 0
+        count = 0 
+
+        while right < len(nums):
+            freq[nums[right]] += 1
+            while max(freq) - min(freq) > 2:
+                freq[nums[left]] -= 1
+                if freq[nums[left]] == 0:
+                    del freq[nums[left]]
+                left += 1
+
+            count += right - left + 1
+            right += 1
+
+        return count
