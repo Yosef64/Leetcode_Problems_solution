@@ -30,6 +30,7 @@
 | [1755-defuse-the-bomb](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1755-defuse-the-bomb) |
 | [1757-minimum-jumps-to-reach-home](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1757-minimum-jumps-to-reach-home) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1917-maximum-average-pass-ratio](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1917-maximum-average-pass-ratio) |
 | [1923-sentence-similarity-iii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1923-sentence-similarity-iii) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2232-adding-spaces-to-a-string](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2232-adding-spaces-to-a-string) |
@@ -178,6 +179,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1304-longest-happy-string) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1917-maximum-average-pass-ratio](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1917-maximum-average-pass-ratio) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -199,6 +201,7 @@
 | [0692-top-k-frequent-words](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0692-top-k-frequent-words) |
 | [0948-sort-an-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0948-sort-an-array) |
 | [1304-longest-happy-string](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1304-longest-happy-string) |
+| [1917-maximum-average-pass-ratio](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1917-maximum-average-pass-ratio) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2692-take-gifts-from-the-richest-pile) |
