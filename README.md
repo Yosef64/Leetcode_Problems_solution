@@ -25,6 +25,7 @@
 | [1168-duplicate-zeros](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1168-duplicate-zeros) |
 | [1256-rank-transform-of-an-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1256-rank-transform-of-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1694-make-sum-divisible-by-p) |
 | [1755-defuse-the-bomb](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1755-defuse-the-bomb) |
@@ -158,6 +159,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0173-binary-search-tree-iterator) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1197-parsing-a-boolean-expression) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Simulation
@@ -395,4 +397,8 @@
 |  |
 | ------- |
 | [2868-continuous-subarrays](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2868-continuous-subarrays) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
