@@ -296,6 +296,7 @@
 | [0226-invert-binary-tree](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0226-invert-binary-tree) |
 | [0433-minimum-genetic-mutation](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0433-minimum-genetic-mutation) |
 | [1757-minimum-jumps-to-reach-home](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1757-minimum-jumps-to-reach-home) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Backtracking
@@ -326,6 +327,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0226-invert-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0988-flip-equivalent-binary-trees) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Tree
@@ -335,6 +337,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0226-invert-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0988-flip-equivalent-binary-trees) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Depth-First Search
@@ -344,6 +347,7 @@
 | [0226-invert-binary-tree](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0226-invert-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Design
 |  |
