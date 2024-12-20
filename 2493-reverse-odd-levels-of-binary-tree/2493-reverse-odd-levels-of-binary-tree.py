@@ -7,6 +7,7 @@
 class Solution:
     def reverseOddLevels(self, root: Optional[TreeNode]) -> Optional[TreeNode]:
         Tree , q =[[root]] , deque([root])
+        level = 1
         while q:
          
             for _ in range(len(q)):
@@ -17,10 +18,11 @@ class Solution:
                 if node.right:
                     q.append(node.right)
             
-            if len(q) != 0:
+            if len(q) != 0 and level % 2:
                 Tree.append(list(q))
-        
-        for i in range(1,len(Tree),2):
+            level += 1
+        # print(Tree)
+        for i in range(len(Tree)):
             l ,r = 0, len(Tree[i]) - 1
             while l < r:
                 Tree[i][l].val,Tree[i][r].val = Tree[i][r].val,Tree[i][l].val
