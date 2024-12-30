@@ -281,6 +281,7 @@
 | [0518-coin-change-ii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0518-coin-change-ii) |
 | [1757-minimum-jumps-to-reach-home](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1757-minimum-jumps-to-reach-home) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2562-count-ways-to-build-good-strings](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2562-count-ways-to-build-good-strings) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Math
 |  |
