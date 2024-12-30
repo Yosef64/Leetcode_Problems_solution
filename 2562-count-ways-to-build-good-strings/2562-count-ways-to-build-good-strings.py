@@ -10,7 +10,7 @@ class Solution:
                 dp[length] += dp[length - zero]
             if length >= one:
                 dp[length] += dp[length - one]
-            dp[length] %= MOD
+            # dp[length] %= MOD
 
         # Sum up the results for lengths in the range [low, high]
         result = sum(dp[length] for length in range(low, high + 1)) % MOD
