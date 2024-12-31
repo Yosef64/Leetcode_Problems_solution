@@ -21,6 +21,7 @@
 | [0697-degree-of-an-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0697-degree-of-an-array) |
 | [0948-sort-an-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0966-binary-subarrays-with-sum) |
+| [1025-minimum-cost-for-tickets](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1025-minimum-cost-for-tickets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1168-duplicate-zeros](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1168-duplicate-zeros) |
 | [1256-rank-transform-of-an-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1256-rank-transform-of-an-array) |
@@ -279,6 +280,7 @@
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0313-super-ugly-number](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0313-super-ugly-number) |
 | [0518-coin-change-ii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0518-coin-change-ii) |
+| [1025-minimum-cost-for-tickets](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1025-minimum-cost-for-tickets) |
 | [1757-minimum-jumps-to-reach-home](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1757-minimum-jumps-to-reach-home) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2562-count-ways-to-build-good-strings) |
