@@ -27,6 +27,7 @@
 | [1168-duplicate-zeros](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1168-duplicate-zeros) |
 | [1256-rank-transform-of-an-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1256-rank-transform-of-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1694-make-sum-divisible-by-p) |
@@ -257,6 +258,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -381,6 +383,7 @@
 | [0130-surrounded-regions](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0130-surrounded-regions) |
 | [0289-game-of-life](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0289-game-of-life) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Union Find
