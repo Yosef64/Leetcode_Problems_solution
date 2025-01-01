@@ -25,6 +25,7 @@
 | [1025-minimum-cost-for-tickets](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1025-minimum-cost-for-tickets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1168-duplicate-zeros](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1168-duplicate-zeros) |
+| [1249-snapshot-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1249-snapshot-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1256-rank-transform-of-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -83,6 +84,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0966-binary-subarrays-with-sum) |
 | [1023-time-based-key-value-store](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1023-time-based-key-value-store) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1249-snapshot-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1249-snapshot-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1694-make-sum-divisible-by-p) |
@@ -260,6 +262,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1023-time-based-key-value-store](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1023-time-based-key-value-store) |
+| [1249-snapshot-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1249-snapshot-array) |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -374,6 +377,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0173-binary-search-tree-iterator) |
 | [0677-map-sum-pairs](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0677-map-sum-pairs) |
 | [1023-time-based-key-value-store](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1023-time-based-key-value-store) |
+| [1249-snapshot-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1249-snapshot-array) |
 ## Trie
 |  |
 | ------- |
