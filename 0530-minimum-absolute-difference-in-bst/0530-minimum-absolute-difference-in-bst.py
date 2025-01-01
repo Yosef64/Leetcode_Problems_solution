@@ -12,7 +12,8 @@ class Solution:
             if not node:
                 return res
             dfs(node.left)
-            res = min(res,abs(pre - node.val)) if pre != None else res
+            if pre != None:
+                res = min(res,abs(pre - node.val)) 
             pre = node.val
             dfs(node.right)
             return res
