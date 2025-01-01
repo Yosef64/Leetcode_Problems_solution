@@ -300,6 +300,7 @@
 | [0130-surrounded-regions](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0130-surrounded-regions) |
 | [0226-invert-binary-tree](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0226-invert-binary-tree) |
 | [0433-minimum-genetic-mutation](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0433-minimum-genetic-mutation) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1757-minimum-jumps-to-reach-home](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1757-minimum-jumps-to-reach-home) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -332,6 +333,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0226-invert-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0988-flip-equivalent-binary-trees) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -343,6 +345,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0226-invert-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0988-flip-equivalent-binary-trees) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -353,6 +356,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0130-surrounded-regions) |
 | [0226-invert-binary-tree](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0226-invert-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -393,6 +397,7 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0173-binary-search-tree-iterator) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Iterator
 |  |
 | ------- |
