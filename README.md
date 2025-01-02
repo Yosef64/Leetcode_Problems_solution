@@ -9,6 +9,7 @@
 | [0045-jump-game-ii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0053-maximum-subarray) |
 | [0130-surrounded-regions](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0130-surrounded-regions) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0228-summary-ranges](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0228-summary-ranges) |
 | [0274-h-index](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0274-h-index) |
@@ -258,6 +259,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0222-count-complete-tree-nodes) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0745-find-smallest-letter-greater-than-target) |
