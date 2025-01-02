@@ -262,6 +262,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0222-count-complete-tree-nodes) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0367-valid-perfect-square](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0367-valid-perfect-square) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1023-time-based-key-value-store](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1023-time-based-key-value-store) |
 | [1249-snapshot-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1249-snapshot-array) |
@@ -304,6 +305,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0002-add-two-numbers) |
 | [0313-super-ugly-number](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0313-super-ugly-number) |
+| [0367-valid-perfect-square](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0367-valid-perfect-square) |
 | [0670-maximum-swap](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0670-maximum-swap) |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 ## Breadth-First Search
