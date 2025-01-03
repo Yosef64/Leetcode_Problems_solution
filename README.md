@@ -32,6 +32,7 @@
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1646-kth-missing-positive-number](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1646-kth-missing-positive-number) |
 | [1694-make-sum-divisible-by-p](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1694-make-sum-divisible-by-p) |
 | [1755-defuse-the-bomb](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1755-defuse-the-bomb) |
 | [1757-minimum-jumps-to-reach-home](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1757-minimum-jumps-to-reach-home) |
@@ -274,6 +275,7 @@
 | [1249-snapshot-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1249-snapshot-array) |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1646-kth-missing-positive-number](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1646-kth-missing-positive-number) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2699-count-the-number-of-fair-pairs) |
