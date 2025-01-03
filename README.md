@@ -18,6 +18,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0347-top-k-frequent-elements) |
 | [0518-coin-change-ii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0518-coin-change-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0697-degree-of-an-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0697-degree-of-an-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -270,6 +271,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0367-valid-perfect-square](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0441-arranging-coins) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1023-time-based-key-value-store](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1023-time-based-key-value-store) |
 | [1249-snapshot-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1249-snapshot-array) |
