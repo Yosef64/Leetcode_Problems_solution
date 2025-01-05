@@ -44,6 +44,7 @@
 | [2232-adding-spaces-to-a-string](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2358-number-of-ways-to-split-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2358-number-of-ways-to-split-array) |
+| [2465-shifting-letters-ii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2465-shifting-letters-ii) |
 | [2478-longest-nice-subarray](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2478-longest-nice-subarray) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -107,6 +108,7 @@
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1694-make-sum-divisible-by-p](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1694-make-sum-divisible-by-p) |
 | [2358-number-of-ways-to-split-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2358-number-of-ways-to-split-array) |
+| [2465-shifting-letters-ii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Sorting
@@ -150,6 +152,7 @@
 | [1923-sentence-similarity-iii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2232-adding-spaces-to-a-string](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2232-adding-spaces-to-a-string) |
+| [2465-shifting-letters-ii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2465-shifting-letters-ii) |
 | [2580-circular-sentence](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2691-count-vowel-strings-in-ranges) |
