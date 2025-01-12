@@ -2,18 +2,14 @@ class Solution:
     def wiggleSort(self, nums: List[int]) -> None:
         """
         Do not return anything, modify nums in-place instead.
-        [1,5,1,1,6,4,3]
         """
-        temp , n = sorted(nums) , len(nums)
-        ind = n - 1
-        for i in range(1,n,2):
-            nums[i] = temp[ind]
-            ind -= 1
-        for i in range(0,n,2):
-            nums[i] = temp[ind]
-            ind -= 1
+        arr_sort = sorted(nums)
+        i , j = 1, len(nums) - 1
+        while i < len(nums):
+            nums[i] = arr_sort[j]
+            i , j = i + 2, j -1
         
-        
-            
-        
-        
+        i = 0
+        while i < len(nums):
+            nums[i] = arr_sort[j]
+            i , j = i + 2, j - 1
