@@ -6,7 +6,9 @@ class Solution:
                 return 0
             if dic[num]:
                 return dic[num]
-            return fn(num**2) + 1
+            s = fn(num** 2) + 1
+            dic[num] = s
+            return dic[num]
         
         for num in nums:
             if not dic[num]:
