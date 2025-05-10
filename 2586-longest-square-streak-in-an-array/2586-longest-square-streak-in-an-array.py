@@ -2,10 +2,9 @@ class Solution:
     def longestSquareStreak(self, nums: List[int]) -> int:
         dic , ans = {x:0 for x in nums}, 0
         def fn(num):
-            if num not in dic:
-                return 0
-            if dic[num]:
-                return dic[num]
+            
+            if num not in dic or dic[num]:
+                return 0 if num not in dic else dic[num]
             s = fn(num** 2) + 1
             dic[num] = s
             return dic[num]
