@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0324-wiggle-sort-ii) |
+| [0729-my-calendar-i](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0729-my-calendar-i) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2586-longest-square-streak-in-an-array) |
 ## String
@@ -53,9 +54,22 @@
 ## Binary Search
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0729-my-calendar-i) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2586-longest-square-streak-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [2586-longest-square-streak-in-an-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2586-longest-square-streak-in-an-array) |
+## Design
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0729-my-calendar-i) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
