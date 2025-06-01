@@ -2,30 +2,28 @@ from sortedcontainers import SortedList
 class MyCalendar:
 
     def __init__(self):
-        self.books = SortedList()
-    def overlap_(self,interval1, interval2):  
-        # print(interval1,interval2)
-        start1, end1 = min(interval1,interval2)  
-        start2, end2 = max(interval1,interval2)
+        self.array = SortedList()
+    
+    def checkOverlap(self,arr1,arr2):
+        m_l , m_r = arr1
+        sT , eT = arr2
+        return (m_l<=sT <m_r or m_l<eT<=m_r) or (sT<=m_l <eT or sT < m_r <=eT)
         
-        return end1 > start2
 
-    def book(self, start: int, end: int) -> bool:
-        l , r = 0,len(self.books)-1
+    def book(self, sT: int, eT: int) -> bool:
+        l ,r = 0, len(self.array) - 1
         while l <= r:
-            mid = (r-l)//2 + l
-            left , right = self.books[mid]
-
-            if self.overlap_((start,end),(left,right)):
+            mid = (r-l) // 2 + l
+            mid_point = self.array[mid]
+            if self.checkOverlap(mid_point,[sT,eT]):
                 return False
-            
-            if right > start:
-                r = mid - 1
-            else:
+            if mid_point[-1] <= sT:
                 l = mid + 1
-        self.books.add([start,end])
+            else:
+                r = mid - 1
+        self.array.add([sT,eT])
         return True
-
+            
 
 
         
@@ -33,4 +31,4 @@ class MyCalendar:
 
 # Your MyCalendar object will be instantiated and called as such:
 # obj = MyCalendar()
-# param_1 = obj.book(start,end)
+# param_1 = obj.book(startTime,endTime)
