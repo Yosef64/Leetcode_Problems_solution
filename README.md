@@ -16,6 +16,7 @@
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0006-zigzag-conversion) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1502-construct-k-palindrome-strings) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
