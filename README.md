@@ -114,4 +114,20 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0011-container-with-most-water) |
+## Math
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Recursion
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Simulation
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
