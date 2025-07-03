@@ -10,6 +10,7 @@
 | [0135-candy](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0135-candy) |
 | [0324-wiggle-sort-ii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0324-wiggle-sort-ii) |
 | [0729-my-calendar-i](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0729-my-calendar-i) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1675-magnetic-force-between-two-balls) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -74,6 +75,7 @@
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0729-my-calendar-i) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1675-magnetic-force-between-two-balls) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2586-longest-square-streak-in-an-array) |
 ## Dynamic Programming
