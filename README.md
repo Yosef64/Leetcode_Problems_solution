@@ -12,6 +12,7 @@
 | [0324-wiggle-sort-ii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0324-wiggle-sort-ii) |
 | [0729-my-calendar-i](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0729-my-calendar-i) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1675-magnetic-force-between-two-balls) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -36,6 +37,7 @@
 | [0001-two-sum](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0001-two-sum) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1502-construct-k-palindrome-strings) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2586-longest-square-streak-in-an-array) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
@@ -53,6 +55,7 @@
 |  |
 | ------- |
 | [1502-construct-k-palindrome-strings](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1502-construct-k-palindrome-strings) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 ## Divide and Conquer
 |  |
