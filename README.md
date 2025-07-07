@@ -12,6 +12,7 @@
 | [0324-wiggle-sort-ii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0324-wiggle-sort-ii) |
 | [0729-my-calendar-i](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0729-my-calendar-i) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1675-magnetic-force-between-two-balls) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -48,6 +49,7 @@
 | [0011-container-with-most-water](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0135-candy) |
 | [0324-wiggle-sort-ii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0324-wiggle-sort-ii) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1502-construct-k-palindrome-strings) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -66,6 +68,7 @@
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0324-wiggle-sort-ii) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1675-magnetic-force-between-two-balls) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2586-longest-square-streak-in-an-array) |
 ## Quickselect
@@ -107,6 +110,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Depth-First Search
 |  |
