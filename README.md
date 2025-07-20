@@ -49,6 +49,7 @@
 | [0011-container-with-most-water](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0135-candy) |
 | [0324-wiggle-sort-ii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0324-wiggle-sort-ii) |
+| [0397-integer-replacement](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0397-integer-replacement) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1502-construct-k-palindrome-strings) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -90,6 +91,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0397-integer-replacement) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2586-longest-square-streak-in-an-array) |
 ## Design
 |  |
@@ -131,6 +133,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0397-integer-replacement) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
 |  |
@@ -144,4 +147,8 @@
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0240-search-a-2d-matrix-ii) |
+## Memoization
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0397-integer-replacement) |
 <!---LeetCode Topics End-->
