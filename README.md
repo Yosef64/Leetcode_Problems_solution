@@ -12,6 +12,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0324-wiggle-sort-ii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0324-wiggle-sort-ii) |
 | [0410-split-array-largest-sum](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0410-split-array-largest-sum) |
+| [0594-longest-harmonious-subsequence](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0729-my-calendar-i](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0729-my-calendar-i) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -39,6 +40,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0001-two-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0594-longest-harmonious-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -61,6 +63,7 @@
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0594-longest-harmonious-subsequence) |
 | [1502-construct-k-palindrome-strings](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -73,6 +76,7 @@
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0324-wiggle-sort-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0594-longest-harmonious-subsequence) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1675-magnetic-force-between-two-balls) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/2586-longest-square-streak-in-an-array) |
@@ -84,6 +88,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0594-longest-harmonious-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Binary Search
 |  |
