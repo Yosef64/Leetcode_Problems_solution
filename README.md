@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0011-container-with-most-water) |
+| [0088-merge-sorted-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0088-merge-sorted-array) |
 | [0135-candy](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0135-candy) |
 | [0219-contains-duplicate-ii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0240-search-a-2d-matrix-ii) |
@@ -75,6 +76,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0088-merge-sorted-array) |
 | [0324-wiggle-sort-ii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0324-wiggle-sort-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0594-longest-harmonious-subsequence) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -138,6 +140,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0011-container-with-most-water) |
+| [0088-merge-sorted-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0088-merge-sorted-array) |
 ## Math
 |  |
 | ------- |
