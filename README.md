@@ -12,6 +12,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0088-merge-sorted-array) |
 | [0135-candy](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0135-candy) |
+| [0169-majority-element](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0324-wiggle-sort-ii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0324-wiggle-sort-ii) |
@@ -43,6 +44,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0594-longest-harmonious-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -67,6 +69,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0169-majority-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0594-longest-harmonious-subsequence) |
 | [1502-construct-k-palindrome-strings](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -74,12 +77,14 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0324-wiggle-sort-ii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0324-wiggle-sort-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0169-majority-element) |
 | [0324-wiggle-sort-ii](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0324-wiggle-sort-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/0594-longest-harmonious-subsequence) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Yosef64/Leetcode_Problems_solution/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
