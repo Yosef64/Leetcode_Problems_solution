@@ -1,11 +1,16 @@
 class Solution:
     def jump(self, nums: List[int]) -> int:
-        @cache
+        memo = {}
         def dp(ind):
-            if ind >= len(nums)-1:
+            if ind >= len(nums) - 1:
                 return 0
-            res = float("inf")
-            for jump in range(1,nums[ind]+1):
-                res = min(res,1+dp(ind+jump))
-            return res
+
+            if ind in memo:
+                return memo[ind]
+            cur_min = float("inf")
+            for i in range(1,nums[ind]+1):
+                cur_min = min(cur_min,1+dp(ind+i))
+            
+            memo[ind] = cur_min
+            return cur_min
         return dp(0)
