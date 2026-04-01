@@ -1,12 +1,14 @@
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
+        n =  len(prices)
         @cache
-        def dp(ind,buy):
-            if ind == len(prices):
+        def dp(buy,i):
+            if i == n: 
                 return 0
             
             if buy:
-                return max(dp(ind+1,False) - prices[ind],dp(ind+1,True))
-            
-            return max(prices[ind]+dp(ind+1,True),dp(ind+1,False))
-        return dp(0,True)
+                return max(dp(False,i+1)-prices[i],dp(buy,i+1))
+
+            return max(dp(True,i+1)+prices[i],dp(buy,i+1))
+        return dp(True,0)
+        
